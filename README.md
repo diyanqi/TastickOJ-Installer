@@ -8,6 +8,6 @@ TastickOJ安装程序，告别繁琐！
 - 先下载setup。
 - 需要运行的命令：
 ```bash
-sudo ./setup
+sudo ./setup.out
 ```
 - 完成安装，直接运行。
